@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume Screener</title>
+</head>
+<body>
+    <h2>Resume Screener</h2>
+    <link rel="stylesheet" href="{{ url_for('static', filename='screener.css') }}">
+
+    <form action="/screener" method="POST" enctype="multipart/form-data">
+        <label>Upload Resumes:</label>
+        <input type="file" name="resumes" multiple required><br><br>
+
+        <label>Paste Job Description:</label><br>
+        <textarea name="job_description" rows="10" cols="80" required></textarea><br><br>
+
+        <button type="submit">Screen Resumes</button>
+    </form>
+
+    {% if results %}
+        <h3>Matching Scores:</h3>
+        <table border="1">
+            <tr><th>Resume</th><th>Score</th></tr>
+            {% for res in results %}
+                <tr><td>{{ res.name }}</td><td>{{ res.score }}</td></tr>
+            {% endfor %}
+        </table>
+    {% endif %}
+</body>
+</html>
