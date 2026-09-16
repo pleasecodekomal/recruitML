@@ -1,13 +1,22 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
 sentence-transformers
+transformers
 spacy
 fastapi
-uvicorn
+uvicorn[standard]
 pydantic
 PyMuPDF
+pdfplumber
 sqlalchemy
 python-multipart
 scikit-learn
 joblib
 numpy
+python-dotenv
+langchain-text-splitters
+langchain-community
+langchain-huggingface
+langchain-openai
+langchain-core
+faiss-cpu
