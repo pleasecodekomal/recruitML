@@ -3,6 +3,11 @@ torch
 sentence-transformers
 spacy
 fastapi
-uvicorn[standard]
+uvicorn
 pydantic
 PyMuPDF
+sqlalchemy
+python-multipart
+scikit-learn
+joblib
+numpy
