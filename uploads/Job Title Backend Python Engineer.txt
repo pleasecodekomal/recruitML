@@ -1,0 +1,6 @@
+**Job Title: Backend Python Engineer**
+
+We are looking for a skilled Backend Engineer to join our fast-paced tech team. You will be responsible for designing, developing, and maintaining scalable RESTful APIs using Python and FastAPI. You will collaborate with cross-functional teams to integrate front-end components and manage our SQL databases.
+
+The ideal candidate must have at least 3 years of experience in backend development. Strong proficiency in Python, Docker, and SQL is required. Experience with cloud platforms like AWS or Azure and container orchestration tools like Kubernetes is highly preferred. You should also be comfortable with Git version control and Agile methodologies.
+

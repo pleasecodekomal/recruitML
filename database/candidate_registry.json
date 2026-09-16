@@ -1,0 +1,152 @@
+{
+  "CAN-1DDB8A": {
+    "candidate_id": "CAN-1DDB8A",
+    "filename": "AnnejacksonDataanalyst.txt",
+    "name": "Name Anne Jackson",
+    "email": "anne2142@gmail.com",
+    "phone": "N/A",
+    "appearances": 8,
+    "created_at": "2026-07-28 14:57:17",
+    "last_seen": "2026-09-09 06:57:16"
+  },
+  "CAN-A17E65": {
+    "candidate_id": "CAN-A17E65",
+    "filename": "CharlesSoftwareeng.txt",
+    "name": "Name Charles Mcturland",
+    "email": "cmcturland@email.com",
+    "phone": "N/A",
+    "appearances": 9,
+    "created_at": "2026-07-28 14:57:18",
+    "last_seen": "2026-09-09 06:58:17"
+  },
+  "CAN-7307A3": {
+    "candidate_id": "CAN-7307A3",
+    "filename": "emily_product_manager_resume.txt",
+    "name": "Name Emily Zhang",
+    "email": "emily.zhang@email.com",
+    "phone": "N/A",
+    "appearances": 12,
+    "created_at": "2026-07-28 14:57:19",
+    "last_seen": "2026-09-09 06:57:18"
+  },
+  "CAN-EBBA51": {
+    "candidate_id": "CAN-EBBA51",
+    "filename": "hr.txt",
+    "name": "Name Priya Shah",
+    "email": "priya.shah@example.com",
+    "phone": "+91-9876001234",
+    "appearances": 11,
+    "created_at": "2026-07-28 14:57:19",
+    "last_seen": "2026-09-09 06:57:18"
+  },
+  "CAN-8EB1B5": {
+    "candidate_id": "CAN-8EB1B5",
+    "filename": "JAVA_DEVELOPER_RESUME.txt",
+    "name": "Name John Doe",
+    "email": "john.doe@example.com",
+    "phone": "N/A",
+    "appearances": 16,
+    "created_at": "2026-07-28 14:57:20",
+    "last_seen": "2026-09-09 06:57:19"
+  },
+  "CAN-8D4426": {
+    "candidate_id": "CAN-8D4426",
+    "filename": "Resume draft[1].pdf",
+    "name": "Product Development Intern",
+    "email": "jammulasainathreddy@gmail.com",
+    "phone": "7134129296",
+    "appearances": 1,
+    "created_at": "2026-07-28 16:46:30",
+    "last_seen": "2026-07-28 16:46:30"
+  },
+  "CAN-99D496": {
+    "candidate_id": "CAN-99D496",
+    "filename": "NetworkSecurityEng_Resume.pdf",
+    "name": "Networksecurityeng",
+    "email": "N/A",
+    "phone": "N/A",
+    "appearances": 2,
+    "created_at": "2026-07-28 17:06:45",
+    "last_seen": "2026-07-28 17:56:26"
+  },
+  "CAN-02A15A": {
+    "candidate_id": "CAN-02A15A",
+    "filename": "Job Title Backend Python Engineer.txt",
+    "name": "Job Title Backend Python Engineer",
+    "email": "N/A",
+    "phone": "N/A",
+    "appearances": 9,
+    "created_at": "2026-07-28 17:06:57",
+    "last_seen": "2026-09-09 06:57:19"
+  },
+  "CAN-C5F9CF": {
+    "candidate_id": "CAN-C5F9CF",
+    "filename": "johhnsmith.pdf",
+    "name": "Adult Care Experience",
+    "email": "jwsmith@colostate.edu",
+    "phone": "N/A",
+    "appearances": 3,
+    "created_at": "2026-07-28 17:06:57",
+    "last_seen": "2026-07-29 10:15:17"
+  },
+  "CAN-D9D058": {
+    "candidate_id": "CAN-D9D058",
+    "filename": "john_data_scientist_resume.txt",
+    "name": "Name John Smith",
+    "email": "john.smith@email.com",
+    "phone": "N/A",
+    "appearances": 3,
+    "created_at": "2026-07-28 17:06:58",
+    "last_seen": "2026-07-29 10:15:17"
+  },
+  "CAN-05807C": {
+    "candidate_id": "CAN-05807C",
+    "filename": "NayaabJindani_resume.pdf",
+    "name": "Nayaab Jindani",
+    "email": "nayaabj2004@gmail.com",
+    "phone": "7738606010",
+    "appearances": 1,
+    "created_at": "2026-07-28 19:09:08",
+    "last_seen": "2026-07-28 19:09:08"
+  },
+  "CAN-94B0B8": {
+    "candidate_id": "CAN-94B0B8",
+    "filename": "resume.pdf",
+    "name": "Komal Sabale",
+    "email": "sabalekomal45@gmail.com",
+    "phone": "+91 8421145187",
+    "appearances": 11,
+    "created_at": "2026-07-28 19:10:53",
+    "last_seen": "2026-09-09 07:37:10"
+  },
+  "CAN-1E4649": {
+    "candidate_id": "CAN-1E4649",
+    "filename": "Resume (1).pdf",
+    "name": "Komal Sabale",
+    "email": "komalrs2815@gmail.com",
+    "phone": "+8421145187",
+    "appearances": 2,
+    "created_at": "2026-07-28 19:12:09",
+    "last_seen": "2026-09-09 07:00:39"
+  },
+  "CAN-2330C4": {
+    "candidate_id": "CAN-2330C4",
+    "filename": "katherine_it.txt",
+    "name": "Name Katherine Scott",
+    "email": "katherinescott@email.com",
+    "phone": "N/A",
+    "appearances": 1,
+    "created_at": "2026-07-29 10:15:18",
+    "last_seen": "2026-07-29 10:15:18"
+  },
+  "CAN-4F64C9": {
+    "candidate_id": "CAN-4F64C9",
+    "filename": "MGMT.pdf",
+    "name": "First Name Last Name",
+    "email": "email@email.com",
+    "phone": "N/A",
+    "appearances": 1,
+    "created_at": "2026-07-29 10:15:20",
+    "last_seen": "2026-07-29 10:15:20"
+  }
+}
